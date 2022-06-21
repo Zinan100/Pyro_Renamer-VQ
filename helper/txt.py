@@ -10,7 +10,7 @@ class mr(object):
     ABOUT_TXT = """
 ╭───────────⍟
 ├🤖 𝙼𝚈 𝙽𝙰𝙼𝙴 : {}
-├👑 𝙾𝚆𝙽𝙴𝚁 : <a href=https://t.me/PYRO_BOTZ>𝗧𝗘𝗔𝗠 𝗣𝗬𝗥𝗢 𝗕𝗢𝗧𝗭</a> 
+├👑 𝙾𝚆𝙽𝙴𝚁 : <a href=https://t.me/mr_BOTS_tg>𝚖𝚛. 𝙱𝚘𝚝𝚜</a> 
 ├👨‍💻 𝙿𝚁𝙾𝙶𝚁𝙰𝙼𝙴𝚁 : <a href=https://github.com/lntechnical2>𝙻𝙽 𝚃𝙴𝙲𝙷.𝚐𝚒𝚝</a>
 ├📕 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : <a href=https://github.com/pyrogram>𝚈𝚁𝙾𝙶𝚁𝙰𝙼</a>
 ├✏️ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : <a href=https://www.python.org>𝙿𝚈𝚃𝙷𝙾𝙽 3</a>
@@ -43,6 +43,7 @@ Example:- /set_caption 📕 File Name: {filename}
     DEV_TXT = """
 <b><u>Special Thanks & Developers</b></u> 
 
+• ❣️ <a href=https://github.com/Zinan100>ｚｉｎａｎ</a>
 • ❣️ <a href=https://github.com/lntechnical2>𝘓𝘕 𝘛𝘌𝘊𝘏𝘕𝘐𝘊</a>
 • ❣️ <a href=https://t.me/Mhd_rzn>𝐌𝐡𝐝_𝐫𝐳𝐧</a>
 • ❣️ <a href=https://t.me/mr_MKN>𝙼𝚛.𝙼𝙺𝙽 𝚃𝙶</a>
